@@ -9,6 +9,9 @@ import java.nio.file.attribute.BasicFileAttributes;
 
 public class RecursiveWalk {
 
+    private static final int FNV_32_PRIME = 0x01000193;
+    private static final int FNV_32_DEFAULT_VALUE = 0x811c9dc5;
+
     static class FNVFileVisitor extends SimpleFileVisitor<Path> {
         BufferedWriter writer;
 
@@ -18,7 +21,7 @@ public class RecursiveWalk {
 
         @Override
         public FileVisitResult visitFile(Path file, BasicFileAttributes attrs) throws IOException {
-            int hash = Walk.fileHashFNV(file);
+            int hash = fileHashFNV(file);
             writer.write(String.format("%08x", hash) + " " + file);
             writer.newLine();
             return FileVisitResult.CONTINUE;
@@ -31,6 +34,24 @@ public class RecursiveWalk {
             writer.newLine();
             return FileVisitResult.CONTINUE;
         }
+    }
+
+
+    public static int fileHashFNV(Path file) {
+        int hash = FNV_32_DEFAULT_VALUE;
+
+        try (FileInputStream fileInputStream = new FileInputStream(file.toString())) {
+            int nextByte;
+            while ((nextByte = fileInputStream.read()) >= 0) {
+                hash *= FNV_32_PRIME;
+                hash ^= (nextByte & 0xff);
+            }
+        } catch (IOException e) {
+            System.out.println("Reading file issue" + " " + e.getMessage());
+            hash = 0;
+        }
+
+        return hash;
     }
 
 
