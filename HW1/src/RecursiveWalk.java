@@ -1,12 +1,11 @@
 import java.io.*;
-import java.nio.file.*;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 
 /**
  * @author Nikolay Yarlychenko
  */
-
 
 public class RecursiveWalk {
 
