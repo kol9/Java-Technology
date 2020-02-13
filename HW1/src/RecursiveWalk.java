@@ -54,7 +54,6 @@ public class RecursiveWalk {
         return hash;
     }
 
-
     public static void main(String[] args) {
         if (args == null || args.length != 2 || args[0] == null || args[1] == null) {
             System.out.println("Wrong arguments, use this format: java Walk <input file> <output file>");
