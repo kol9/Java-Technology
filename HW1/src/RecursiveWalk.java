@@ -19,7 +19,7 @@ public class RecursiveWalk {
         try (FileInputStream inputStream = new FileInputStream(file.toFile())) {
             byte[] b = new byte[BLOCK_SIZE];
             int bytesRead;
-            while ((bytesRead = inputStream.readNBytes(b, 0, BLOCK_SIZE)) != 0) {
+            while ((bytesRead = inputStream.read(b, 0, BLOCK_SIZE)) != -1) {
 
                 for (int i = 0; i < bytesRead; ++i) {
                     hash *= FNV_32_PRIME;
