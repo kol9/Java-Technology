@@ -11,6 +11,7 @@ public class RecursiveWalk {
 
     private static final int FNV_32_PRIME = 0x01000193;
     private static final int FNV_32_DEFAULT_VALUE = 0x811c9dc5;
+    private static final int BLOCK_SIZE = 8192;
 
     static class FNVFileVisitor extends SimpleFileVisitor<Path> {
         BufferedWriter writer;
@@ -40,15 +41,20 @@ public class RecursiveWalk {
     public static int fileHashFNV(Path file) {
         int hash = FNV_32_DEFAULT_VALUE;
 
-        try (FileInputStream fileInputStream = new FileInputStream(file.toString())) {
-            int nextByte;
-            while ((nextByte = fileInputStream.read()) >= 0) {
-                hash *= FNV_32_PRIME;
-                hash ^= (nextByte & 0xff);
+        try (FileInputStream inputStream = new FileInputStream(file.toFile())) {
+            byte[] b = new byte[BLOCK_SIZE];
+            int bytesRead;
+            while ((bytesRead = inputStream.readNBytes(b, 0, BLOCK_SIZE)) != 0) {
+
+                for (int i = 0; i < bytesRead; ++i) {
+                    hash *= FNV_32_PRIME;
+                    hash ^= (b[i] & 0xff);
+                }
             }
+        } catch (FileNotFoundException e) {
+            System.out.println("File opening issue" + " " + e.getMessage());
         } catch (IOException e) {
             System.out.println("Reading file issue" + " " + e.getMessage());
-            hash = 0;
         }
 
         return hash;
@@ -74,8 +80,8 @@ public class RecursiveWalk {
             try (BufferedReader reader = new BufferedReader(new FileReader(inputFile, StandardCharsets.UTF_8))) {
                 try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFIle, StandardCharsets.UTF_8))) {
                     String path;
+                    FNVFileVisitor fileVisitor = new FNVFileVisitor(writer);
                     while ((path = reader.readLine()) != null) {
-                        FNVFileVisitor fileVisitor = new FNVFileVisitor(writer);
                         try {
                             Files.walkFileTree(Paths.get(path), fileVisitor);
                         } catch (InvalidPathException e) {
