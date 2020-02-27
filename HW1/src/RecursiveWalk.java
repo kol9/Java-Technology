@@ -21,6 +21,7 @@ public class RecursiveWalk {
             int bytesRead;
             while ((bytesRead = inputStream.read(b, 0, BLOCK_SIZE)) != -1) {
 
+                
                 for (int i = 0; i < bytesRead; ++i) {
                     hash *= FNV_32_PRIME;
                     hash ^= (b[i] & 0xff);
