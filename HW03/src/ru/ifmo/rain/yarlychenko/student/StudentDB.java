@@ -21,9 +21,7 @@ import java.util.stream.Stream;
 /**
  * @author Nikolay Yarlychenko
  */
-
 public class StudentDB implements StudentGroupQuery {
-
     private static final Comparator<Student> alphabetOrderComparator =
             Comparator.comparing(Student::getLastName, String::compareTo)
                     .thenComparing(Student::getFirstName, String::compareTo)
