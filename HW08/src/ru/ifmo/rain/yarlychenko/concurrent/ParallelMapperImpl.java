@@ -52,6 +52,7 @@ public class ParallelMapperImpl implements ParallelMapper {
                 tasks.notifyAll();
             }
         }
+
         return collector.getRes();
     }
 
