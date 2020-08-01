@@ -1,0 +1,218 @@
+Pound sterling (symbol: £; ISO code: GBP), known in some contexts simply as the pound or sterling,[6] is the official currency of the United Kingdom, Jersey, Guernsey, the Isle of Man, Gibraltar, South Georgia and the South Sandwich Islands, the British Antarctic Territory,[7][8] and Tristan da Cunha.[9] It is subdivided into 100 pence (singular: penny, abbreviated: p). The Pound sterling is the oldest currency in continuous use. A number of nations that do not use sterling also have currencies called the pound.
+
+Sterling is the fourth most-traded currency in the foreign exchange market, after the United States dollar, the euro, and the Japanese yen.[10] Together with those three currencies and the Chinese yuan, it forms the basket of currencies which calculate the value of IMF special drawing rights. As of 30 September 2019, sterling is also the fourth most-held reserve currency in global reserves.[11]
+
+The British Crown dependencies of Guernsey, Jersey and the Isle of Man produce their own local issues of sterling (the Guernsey pound, the Jersey pound and the Manx pound) which are considered fully equivalent to UK sterling in their respective regions.[12] The pound sterling is also used in Gibraltar (alongside the Gibraltar pound), the Falkland Islands (alongside the Falkland Islands pound), Saint Helena and Ascension Island in Saint Helena, Ascension and Tristan da Cunha (alongside the Saint Helena pound). The Bank of England is the central bank for the pound sterling, issuing its own banknotes, and regulating issuance of banknotes by private banks in Scotland and Northern Ireland. Sterling banknotes issued by other jurisdictions are not regulated by the Bank of England; their governments guarantee convertibility at par.
+
+
+Contents
+1	Names
+1.1	Etymology
+1.2	Symbol
+1.3	Currency code
+1.4	Cable
+1.5	Quid (slang)
+2	Subdivisions and other units
+2.1	Decimal coinage
+2.2	Pre-decimal
+3	History
+3.1	Anglo-Saxon
+3.2	Medieval
+3.3	Tudor
+3.4	Unofficial gold standard
+3.5	Establishment of modern currency
+3.6	Currency of Great Britain (1707) and the United Kingdom (1801)
+3.7	Use in the Empire
+3.8	Gold standard
+3.9	Bretton Woods
+3.10	Decimalisation
+3.11	Free-floating pound
+3.12	1976 sterling crisis
+3.13	1979–1989
+3.14	Following the Deutsche Mark
+3.15	Following the European Currency Unit
+3.16	Following inflation targets
+3.17	Euro
+3.18	Recent exchange rates
+3.19	Annual inflation rate
+4	Coins
+4.1	Pre-decimal coins
+4.2	Decimal coins
+5	Banknotes
+5.1	Polymer banknotes
+6	Monetary policy
+7	Legal tender and national issues
+8	Value
+9	Exchange rate
+10	Reserve
+11	See also
+12	Footnotes
+13	References
+14	Further reading
+15	External links
+Names
+The full official name pound sterling (plural: pounds sterling), is used mainly in formal contexts and also when it is necessary to distinguish the United Kingdom currency from other currencies with the same name. Otherwise the term pound is normally used. The currency name is sometimes abbreviated to just sterling, particularly in the wholesale financial markets, but not when referring to specific amounts; for example, "Payment is accepted in sterling" but never "These cost five sterling". The abbreviations "ster." and "stg." are sometimes used. The term "British pound" is sometimes used in less formal contexts, but it is not an official name of the currency.
+
+Etymology
+Further information: Sterling silver § Etymology
+There is a variety of theories regarding the origin of the term "pound sterling". The Oxford English Dictionary (and sources derived therefrom)[13][14] state that the "most plausible" etymology is derivation from the Old English steorra for "star" with the added diminutive suffix "-ling", to mean "little star" and to refer to a silver penny of the English Normans.[15]
+
+Another argument that the Hanseatic League was the origin for both the origin of its definition and manufacture, and in its name is that the German name for the Baltic is "Ostsee", or "East Sea", and from this the Baltic merchants were called "Osterlings", or "Easterlings".[16][17] In 1260, Henry III granted them a charter of protection and land for their Kontor, the Steelyard of London, which by the 1340s was also called "Easterlings Hall", or Esterlingeshalle.[18] Because the League's money was not frequently debased like that of England, English traders stipulated to be paid in pounds of the "Easterlings", which was contracted to "'sterling".[19]
+
+Encyclopedia Britannica states the (pre-Norman) Anglo-Saxon kingdoms had silver coins called 'sterlings' and that the compound noun 'pound sterling' was derived from a pound (weight) of these sterlings.[20]
+
+Symbol
+Main article: pound sign
+The currency sign for the pound is £, which is usually written with a single cross-bar (as on modern banknotes exclusively since 1975).[21][22] A variation with a double cross-bar (₤) has been used intermittently with £ since the earliest banknotes of 1725 when both were used.[21] Historically, a simple capital L was used in newspapers, books and letters.[23] The symbol derives from medieval Latin documents: the black-letter "L" ({\displaystyle {\mathfrak {L}}}{\mathfrak  {L}}) was the abbreviation for libra, the basic Roman unit of weight, taken (incorrectly) as equivalent to a latter-day pound in weight.[b] In the British pre-decimal (duodecimal) currency system, the term £sd (or Lsd) for pounds, shillings and pence referred to the Roman words libra, solidus, and denarius.[20]
+
+Currency code
+The ISO 4217 currency code is GBP, formed from "GB", the ISO 3166-1 alpha-2 code for the United Kingdom, and the first letter of "pound". Occasionally, the abbreviation "UKP" is used but this is non-standard because the ISO 3166 country code for the United Kingdom is GB (see Terminology of the British Isles). The Crown dependencies use their own (non-ISO) codes: GGP (Guernsey pound), JEP (Jersey pound) and IMP (Isle of Man pound). Stock prices are often quoted in pence, so traders may refer to pence sterling, GBX (sometimes GBp), when listing stock prices.
+
+Cable
+Main article: Cable (foreign exchange)
+The exchange rate of the pound sterling against the US dollar is referred to as "cable" in the wholesale foreign exchange markets. The origins of this term are attributed to the fact that in the 1800s, the GBP/USD exchange rate was transmitted via transatlantic cable. Forex traders of GBP/USD are sometimes referred to as "cable dealers".[24] GBP/USD is the only currency pair with its own name in the foreign exchange markets.[citation needed][25]
+
+Quid (slang)
+A common slang term for the pound sterling or pound is quid, which is singular and plural, except in the common phrase "quids in!". The term may have come via Italian immigrants from "scudo", the name for a number of coins used in Italy until the 19th century; or from Latin 'quid' via the common phrase quid pro quo, literally, "what for what", or, figuratively, "An equal exchange or substitution".[26]
+
+Subdivisions and other units
+Decimal coinage
+Since decimalisation on Decimal Day in 1971, the pound has been divided into 100 pence (denoted on coinage, until 1981, as "new pence"). The symbol for the penny is "p"; hence an amount such as 50p (£0.50) properly pronounced "fifty pence" is more colloquially, quite often, pronounced "fifty pee" /fɪfti pi/. This also helped to distinguish between new and old pence amounts during the changeover to the decimal system. A decimal halfpenny was issued until 1984 but was removed due to having a higher cost to manufacture than its face value.[27]
+
+Pre-decimal
+Main article: £sd
+
+The Hatter's hat shows an example of the old pre-decimal system: the hat costs half a guinea (10 shillings and 6 pence).
+Before decimalisation in 1971, the pound was divided into 20 shillings and each shilling into 12 pence, making 240 pence to the pound. The symbol for the shilling was "s."—not from the first letter of "shilling", but from the Latin solidus. The symbol for the penny was "d.", from the French denier, from the Latin denarius (the solidus and denarius were Roman coins). A mixed sum of shillings and pence, such as 3 shillings and 6 pence, was written as "3/6" or "3s. 6d." and spoken as "three and six" or "three and sixpence" except for "1/1," "2/1" etc., which were spoken as "one and a penny", "two and a penny", etc. 5 shillings, for example, was written as "5s." or, more commonly, "5/–". Various coin denominations had, and in some cases continue to have, special names—such as crown, farthing, sovereign and guinea. See Coins of the pound sterling and List of British coins and banknotes for details.
+
+By the 1950s, coins of Kings George III, George IV and William IV had disappeared from circulation, but coins (at least the penny) bearing the head of every British king or queen from Queen Victoria onwards could be found in circulation. Silver coins were replaced by those in cupro-nickel in 1947, and by the 1960s the silver coins were rarely seen. Silver/cupro-nickel shillings (from any period after 1816) and florins (2 shillings) remained legal tender after decimalisation (as 5p and 10p respectively) until 1990 and 1993 respectively, but are now officially demonetised.[28][29]
+
+History
+At various times, the pound sterling was commodity money or bank notes backed by silver or gold, but it is currently fiat money, with its value determined only by its continued acceptance in the national and international economy. The pound sterling is the world's oldest currency still in use and which has been in continuous use since its inception.[30]
+
+Anglo-Saxon
+Main article: Anglo-Saxon pound
+
+A pound = 20 shillings = 240 silver pennies (formerly)
+The pound was a unit of account in Anglo-Saxon England, equal to 240 silver pence (the plural of penny) and equivalent to one pound weight of silver. It evolved into the modern British currency, the pound sterling.
+
+The accounting system of four farthings = one penny, twelve pence = one shilling, twenty shillings = one pound, was adopted from that introduced by Charlemagne to the Frankish Empire (see French livre). The penny was abbreviated to 'd', from denarius, Latin for penny; 's' from solidus, for shilling; and 'L' (subsequently £) from Libra or Livre for the pound.
+
+The origins of sterling lie in the reign of King Offa of Mercia (757–796), who introduced the silver penny. It represented the denarius of the new currency system of Charlemagne's Frankish Empire. As in the Carolingian system, 240 pence weighed one pound, a unit corresponding to Charlemagne's libra, with the shilling corresponding to Charlemagne's solidus and equal to twelve pence. At the time of the penny's introduction, it weighed 22.5 troy grains of fine silver (32 tower grains; about 1.5 g), so the Mercian pound weighed 5,400 troy grains (the Mercian pound became the basis of the tower pound, which also weighed 5,400 troy grains, equivalent to 7,680 tower grains, about 350g).[citation needed]
+
+Medieval
+The early pennies were struck from fine silver (as pure as was available). However, in 1158, a new coinage was introduced by King Henry II (known as the Tealby penny) which was struck from 0.925 (92.5%) silver. This became the standard until the 20th century and is today known as sterling silver, named after its association with the currency.[citation needed] Sterling silver is harder than the 0.999 (99.9%) fine silver that was traditionally used and so sterling silver coins did not wear down as rapidly as fine silver coins. English coins were almost exclusively made of silver until 1344, when the gold noble was successfully introduced into circulation. However, silver remained the legal basis for the pound sterling until 1816.
+
+During the time of Henry III, the pound sterling equalled the tower (weight) pound.[31] In the 28th year of Edward I (around 1300), the tale (money) pound, or pound sterling, first began to differ from (weigh less than) the tower pound, from which it originated, for by indenture[clarification needed] of that year the pound weight was to contain 20s. 3d. in tale pound.[31]:14 In the 27th year of Edward III (around 1354), the pound sterling was now only 80% of the pound weight, or 9 oz 12 dwt (or 9.6 oz) tower.[31]:15 By an Act of the 13th year of Henry IV's reign (around 1412), the pound weight of standard silver was to contain thirty shillings in tale, or one and a half pounds sterling; thus the pound sterling reduced to two-thirds of a pound weight, or 8 oz tower.[31]:18 The pound sterling was adjusted in weight several more times subsequently.
+
+In the reign of Henry IV (1399–1413), the penny was reduced in weight to 15 grains (0.97 g) of silver, with a further reduction to 12 grains (0.78 g) in 1464.
+
+Tudor
+During the reigns of Henry VIII and Edward VI, the silver coinage was drastically debased, although the pound was redefined to the troy pound of 5,760 grains (373 g) in 1526.[citation needed] In 1544, a silver coinage was issued containing just one-third silver and two-thirds copper—equating to 0.333 silver, or 33.3 per cent pure.[citation needed] The result was a coin copper in appearance but relatively pale in colour. In 1552, a new silver coinage was introduced, struck in sterling silver.[32] However, the penny's weight was reduced to 8 grains (0.52 g), so 1 troy pound of sterling silver produced 60 shillings of coins.[32] This silver standard was known as the "60-shilling standard" and lasted until 1601 when a "62-shilling standard" was introduced, reducing the penny's weight to ​7 23⁄31 grains (0.50 g).[citation needed]
+
+Throughout this period, the size and value of the gold coinage fluctuated considerably.[citation needed]
+
+Unofficial gold standard
+In 1663, a new gold coinage was introduced, based on the 22 carat fine guinea. Fixed in weight at ​44 1⁄2 to the troy pound in 1670, this coin's value varied considerably against the silver coinage until 1717, when it was fixed at 21 shillings (21/-, 1.05 pounds).[33] However, despite the efforts of Sir Isaac Newton, Master of the Mint, to reduce the guinea's value, this valuation remained fixed, overvaluing gold relative to silver, when compared to the valuations in other European countries. In line with Gresham's Law, English merchants sent silver abroad in payments, while goods for export were paid for with gold. Scotland, meanwhile, had its own Pound Scots. As a consequence of these flows of silver out and gold in, England was effectively on a gold standard. Trade with China aggravated this outflow, as the Chinese refused to accept anything but silver in payment for exports. From the mid-17th century, around 28,000 metric tons (27,600 imperial tons) of silver were received by China, principally from European powers, in exchange for Chinese tea and other goods. In order to trade with China, England had first to trade with the other European nations to receive silver, which led to the East India Company redressing this trade imbalance through the indirect sale of opium to the Chinese.[34]
+
+Domestic demand for silver further reduced silver in circulation, as the improving fortunes of the merchant class led to increased demand for tableware. Silversmiths had always regarded coinage as a source of raw material, already verified for fineness by the government. As a result, sterling coins were being melted and fashioned into sterling silverware at an accelerating rate. An Act of the Parliament of England in 1697 tried to stem this tide by raising the minimum acceptable fineness on wrought plate from sterling's 92.5% to a new Britannia silver standard of 95.83%. Silverware made purely from melted coins would be found wanting when the silversmith took his wares to the Assay Office, thus discouraging the melting of coins.
+
+Establishment of modern currency
+The Bank of England was founded in 1694, followed by the Bank of Scotland a year later. Both began to issue paper money.
+
+Currency of Great Britain (1707) and the United Kingdom (1801)
+The pound Scots once had much the same value as the pound sterling, but it suffered far higher devaluation until in the 17th century it was pegged to sterling at a value of 12 pounds Scots = 1 pound sterling.
+
+In 1707, the Kingdom of England and the Kingdom of Scotland merged to form the Kingdom of Great Britain. In accordance with the Treaty of Union, the currency of Great Britain was sterling, with the pound Scots soon being replaced by sterling at the pegged value.
+
+In 1801, Great Britain and the Kingdom of Ireland were united to form the United Kingdom of Great Britain and Ireland. However, the Irish pound continued to exist and was not replaced by sterling until January 1826. The conversion rate had long been 13 Irish pounds to 12 pounds sterling. The Irish pound was readopted in 1928, six years after the Anglo-Irish Treaty restored Irish independence.
+
+Use in the Empire
+Main article: Sterling area
+Sterling circulated in much of the British Empire. In some parts, it was used alongside local currencies. For example, the gold sovereign was legal tender in Canada despite the use of the Canadian dollar. Several colonies and dominions adopted the pound as their own currency. These included Australia, Barbados,[35] British West Africa, Cyprus, Fiji, British India, the Irish Free State, Jamaica, New Zealand, South Africa and Southern Rhodesia. Some of these retained parity with sterling throughout their existence (e.g. the South African pound), while others deviated from parity after the end of the gold standard (e.g. the Australian pound). These currencies and others tied to sterling constituted the sterling area.
+
+The original English colonies on mainland North America were not party to the sterling area because the above-mentioned silver shortage in England coincided with these colonies' formative years. As a result of equitable trade (and rather less equitable piracy), the Spanish milled dollar became the most common coin within the English colonies.
+
+Gold standard
+During the American war of independence and the Napoleonic wars, Bank of England notes were legal tender, and their value floated relative to gold. The Bank also issued silver tokens to alleviate the shortage of silver coins. In 1816, the gold standard was adopted officially, with silver coins minted at a rate of 66 shillings to a troy pound of sterling silver, thus rendering them as "token" issues (i.e. not containing their value in precious metal). In 1817, the sovereign was introduced, valued at 20 shillings. Struck in 22‑carat gold, it contained 113 grains (7.3 g) of gold and replaced the guinea as the standard British gold coin without changing the gold standard. In 1825, the Irish pound, which had been pegged to sterling since 1801 at a rate of 13 Irish pounds = 12 pounds sterling, was replaced, at the same rate, with sterling.
+
+By the 19th century, the pound sterling was widely accepted outside Britain. The American Nellie Bly carried Bank of England notes on her 1889–1890 trip around the world in 72 days.[36] During the late 19th and early 20th centuries, many other countries adopted the gold standard. As a consequence, conversion rates between different currencies could be determined simply from the respective gold standards. The pound sterling was equal to 4.87 United States dollars, 4.87 Canadian dollars, 12.11 Dutch guilders, 25.22 French francs (or equivalent currencies in the Latin Monetary Union), 20.43 German marks or 24.02 Austro-Hungarian krone. After the International Monetary Conference of 1867 in Paris, the possibility of the UK joining the Latin Monetary Union was discussed, and a Royal Commission on International Coinage examined the issues,[37] resulting in a decision against joining monetary union.
+
+The gold standard was suspended at the outbreak of the war in 1914, with Bank of England and Treasury notes becoming legal tender. Before World War I, the United Kingdom had one of the world's strongest economies, holding 40% of the world's overseas investments. But after the end of the war, the country was indebted: Britain owed £850 million (£37.3 billion as of 2015)[38] with interest costing the country some 40% of all government spending.[39] To try to resume stability, a version of the gold standard was reintroduced in 1925, under which the currency was fixed to gold at its pre-war peg, but one could only exchange currency for gold bullion, not for coins. This was abandoned on 21 September 1931, during the Great Depression, and sterling suffered an initial devaluation of some 25%.[40]
+
+Bretton Woods
+See also: Economic history of the UK, 1945–59
+In 1940, an agreement with the US pegged the pound to the U.S. dollar at a rate of £1 = $4.03. (Only the year before, it had been $4.86.)[41] This rate was maintained through the Second World War and became part of the Bretton Woods system which governed post-war exchange rates. Under continuing economic pressure, and despite months of denials that it would do so, on 19 September 1949 the government devalued the pound by 30.5 per cent to $2.80.[42] The move prompted several other currencies to be devalued against the dollar.
+
+Operation Bernhard was the codename of a secret Nazi plan devised during the Second World War by the RSHA and the SS to destabilise the British economy via economic warfare by flooding the global economy and the British Empire with forged Bank of England £5, £10, £20, and £50 notes.
+
+In 1961, 1964, and 1966, the pound came under renewed pressure, as speculators were selling pounds for dollars. In summer 1966, with the value of the pound falling in the currency markets, exchange controls were tightened by the Wilson government. Among the measures, tourists were banned from taking more than £50 out of the country in travellers' cheques and remittances, plus £15 in cash; this restriction was not lifted until 1979. The pound was devalued by 14.3 per cent to $2.40 on 18 November 1967.[42][43]
+
+Decimalisation
+Main article: Decimal Day
+Until decimalisation, amounts were stated in pounds, shillings, and pence, with various widely understood notations. The same amount could be stated as 32s 6d, 32/6, £1 12s 6d, or £1/12/6. It was customary to specify some prices (for example professional fees and auction prices for works of art) in guineas (one guinea was 21 shillings) although guinea coins were no longer in use.
+
+Formal parliamentary proposals to decimalise sterling were first made in 1824 when Sir John Wrottesley, MP for Staffordshire, asked in the British House of Commons whether consideration had been given to decimalising the currency.[44] Wrottesley raised the issue in the House of Commons again in 1833,[45] and it was again raised by John Bowring, MP for Kilmarnock Burghs, in 1847[46] whose efforts led to the introduction in 1848 of what was in effect the first decimal coin in the United Kingdom, the florin, valued at one-tenth of a pound sterling. However, full decimalisation was resisted, although the florin coin, re-designated as ten new pence, survived the transfer to a full decimal system in 1971, with examples surviving in British coinage until 1993.
+
+John Benjamin Smith, MP for Stirling Burghs, raised the issue of full decimalisation again in Parliament in 1853,[47] resulting in the Chancellor of the Exchequer, William Gladstone, announcing soon afterwards that "the great question of a decimal coinage" was "now under serious consideration".[48] A full proposal for the decimalisation of sterling was then tabled in the House of Commons in June 1855, by William Brown, MP for Lancashire Southern, with the suggestion that the pound sterling be divided into one thousand parts, each called a "mil", or alternatively a farthing, as the pound was then equivalent to 960 farthings which could easily be rounded up to one thousand farthings in the new system.[49] This did not result in the conversion of the pound sterling into a decimal system, but it was agreed to establish a Royal Commission to look into the issue.[50] However, largely due to the hostility to decimalisation of two of the appointed commissioners, Lord Overstone (a banker) and John Hubbard (Governor of the Bank of England), decimalisation in Britain was effectively quashed for over a hundred years.[51]
+
+However, the pound sterling was decimalised in various British colonial territories before the United Kingdom (and in several cases in line with William Brown's proposal that the pound be divided into 1,000 parts, called mils). These included Hong Kong from 1863 to 1866;[52] Cyprus from 1955 until 1960 (and continued on the island as the division of the Cypriot pound until 1983); and the Palestine Mandate from 1926 until 1948.[53]
+
+Towards the end of the Second World War, various attempts to decimalise the pound sterling in the United Kingdom were made[citation needed]. Later, in 1966, the British government decided to include in the Queen's Speech a plan to convert the pound into a decimal currency.[54] As a result of this, on 15 February 1971, the UK decimalised the pound sterling, replacing the shilling and the penny with a single subdivision, the new penny. For example, a price tag of £1 12s 6d became ​£1.62 1⁄2. The word "new" was omitted from coins minted after 1981.
+
+Free-floating pound
+With the breakdown of the Bretton Woods system, the pound floated from August 1971 onwards. At first, it appreciated a little, rising to almost $2.65 in March 1972 from $2.42, the upper bound of the band in which it had been fixed. The sterling area effectively ended at this time, when the majority of its members also chose to float freely against the pound and the dollar.
+
+1976 sterling crisis
+James Callaghan became Prime Minister in 1976. He was immediately told the economy was facing huge problems, according to documents released in 2006 by the National Archives.[55] The effects of the 1973 oil crisis were still being felt, with inflation rising to nearly 27 per cent in 1975.[56] Financial markets were beginning to believe the pound was overvalued, and in April that year The Wall Street Journal advised the sale of sterling investments in the face of high taxes, in a story that ended with "goodbye, Great Britain. It was nice knowing you".[57] At the time the UK government was running a budget deficit, and Labour's strategy emphasised high public spending.[42] Callaghan was told there were three possible outcomes: a disastrous free fall in sterling, an internationally unacceptable siege economy, or a deal with key allies to prop up the pound while painful economic reforms were put in place. The US government feared the crisis could endanger NATO and the European Economic Community (EEC), and in light of this the US Treasury set out to force domestic policy changes. In November 1976 the International Monetary Fund (IMF) announced the conditions for a loan, including deep cuts in public expenditure.[58]
+
+1979–1989
+The Conservative Party was elected to office in 1979, on a programme of fiscal austerity. Initially, the pound rocketed, moving above US$2.40, as interest rates rose in response to the monetarist policy of targeting money supply. The high exchange rate was widely blamed for the deep recession of 1981. Sterling fell sharply after 1980; at its lowest, the pound stood at just $1.03 in March 1985, before rising to $1.70 in December 1989.[59]
+
+Following the Deutsche Mark
+In 1988, Margaret Thatcher's Chancellor of the Exchequer, Nigel Lawson, decided that the pound should "shadow" the West German Deutsche Mark (DM), with the unintended result of a rapid rise in inflation as the economy boomed due to low-interest rates. (For ideological reasons, the Conservative Government declined to use alternative mechanisms to control the explosion of credit. For this reason, former Prime Minister Edward Heath referred to Lawson as a "one club golfer".)[60]
+
+Following German reunification in 1990, the reverse held true, as high German borrowing costs to fund Eastern reconstruction, exacerbated by the political decision to convert the Ostmark to the DM on a 1:1 basis, meant that interest rates in other countries shadowing the DM, especially the UK, were far too high relative to domestic circumstances, leading to a housing decline and recession.
+
+Following the European Currency Unit
+On 8 October 1990 the Conservative government (Third Thatcher ministry) decided to join the European Exchange Rate Mechanism (ERM), with the pound set at DM2.95. However, the country was forced to withdraw from the system on "Black Wednesday" (16 September 1992) as Britain's economic performance made the exchange rate unsustainable.
+
+'Black Wednesday' saw interest rates jump from 10% to 15% in an unsuccessful attempt to stop the pound from falling below the ERM limits. The exchange rate fell to DM2.20. Those who had argued[61] for a lower GBP/DM exchange rate were vindicated since the cheaper pound encouraged exports and contributed to the economic prosperity of the 1990s.
+
+Following inflation targets
+In 1997, the newly-elected Labour government handed over day-to-day control of interest rates to the Bank of England (a policy that had originally been advocated by the Liberal Democrats).[62] The Bank is now responsible for setting its base rate of interest so as to keep inflation (as measured by the Consumer Price Index (CPI)) very close to 2% per annum. Should CPI inflation be more than one percentage point above or below the target, the governor of the Bank of England is required to write an open letter to the Chancellor of the Exchequer explaining the reasons for this and the measures which will be taken to bring this measure of inflation back in line with the 2% target. On 17 April 2007, annual CPI inflation was reported at 3.1% (inflation of the Retail Prices Index was 4.8%). Accordingly, and for the first time, the Governor had to write publicly to the government explaining why inflation was more than one percentage point higher than its target.[63]
+
+Euro
+Main article: United Kingdom and the euro
+As a member of the European Union, the United Kingdom could have adopted the euro as its currency. However, the subject was always politically controversial, and the UK negotiated an opt-out on this issue. Following the UK's ending of its membership of the EU on 31 January 2020, the question has ceased to be any more than a thought experiment.
+
+In 2007, Gordon Brown, then Chancellor of the Exchequer, ruled out membership for the foreseeable future, saying that the decision not to join had been right for Britain and for Europe.[64]
+
+On 1 January 2008, with the Republic of Cyprus switching its currency from the Cypriot pound to the euro, the British sovereign bases on Cyprus (Akrotiri and Dhekelia) followed suit, making the Sovereign Base Areas the only territory under British sovereignty to officially use the euro.[65]
+
+The government of former Prime Minister Tony Blair had pledged to hold a public referendum to decide on the adoption of the Euro should "five economic tests" be met, to increase the likelihood that any adoption of the euro would be in the national interest. In addition to these internal (national) criteria, the UK would have to meet the European Union's economic convergence criteria (Maastricht criteria) before being allowed to adopt the euro. The Conservative and Liberal Democrat coalition government (2010–2015) ruled out joining the euro for that parliamentary term.
+
+The idea of replacing the pound with the euro was always controversial with the British public, partly because of the pound's identity as a symbol of British sovereignty and because it would, according to many critics, have led to suboptimal interest rates, harming the British economy.[66] In December 2008, the results of a BBC poll of 1000 people suggested that 71% would vote no to the euro, 23% would vote yes, while 6% said they were unsure.[67] The pound did not join the Second European Exchange Rate Mechanism (ERM II) after the euro was created. Denmark and the UK have opt-outs from entry to the euro. Theoretically, every other EU nation must eventually sign up.
+
+The Scottish Conservative Party claimed that there was an issue for Scotland in that the adoption of the euro would mean the end of nationally distinctive banknotes, as the euro banknotes do not have national designs.[68] Before the 'No' vote in the Scottish independence referendum in 2014, the Scottish National Party affirmed that the euro would not be the national currency of an independent Scotland.[citation needed]
+
+Recent exchange rates
+Main article: Economy of the United Kingdom § Exchange rates
+
+The cost of one pound in US dollars (from 1990)
+
+The cost of one Euro in pounds (from 1999)
+The pound and the euro fluctuate in value against one another, although there may be correlation between movements in their respective exchange rates with other currencies such as the US dollar. Inflation concerns in the UK led the Bank of England to raise interest rates in late 2006 and 2007. This caused the pound to appreciate against other major currencies and, with the US dollar depreciating at the same time, the pound hit a 15-year high against the US dollar on 18 April 2007, reaching US$2 the day before, for the first time since 1992. The pound and many other currencies continued to appreciate against the dollar; sterling hit a 26-year high of US$2.1161 on 7 November 2007 as the dollar fell worldwide.[69] From mid-2003 to mid-2007, the pound/euro rate remained within a narrow range (€1.45 ± 5%).[70]
+
+Following the global financial crisis in late 2008, the pound depreciated sharply, reaching $1.38 (US) on 23 January 2009[71] and falling below €1.25 against the euro in April 2008.[72] There was a further decline during the remainder of 2008, most dramatically on 29 December when its euro rate hit an all-time low at €1.0219, while its US dollar rate depreciated.[73][74] The pound appreciated in early 2009, reaching a peak against the euro of €1.17 in mid-July. In the following months the pound remained broadly steady against the euro, with the pound's valued on 27 May 2011 at €1.15 and US$1.65.
+
+On 5 March 2009, the Bank of England announced that it would pump £75 billion of new capital into the British economy, through a process known as quantitative easing (QE). This was the first time in the United Kingdom's history that this measure had been used, although the Bank's Governor Mervyn King suggested it was not an experiment.[75]
+
+The process saw the Bank of England creating new money for itself, which it then used to purchase assets such as government bonds, secured commercial paper, or corporate bonds.[76] The initial amount stated to be created through this method was £75 billion, although Chancellor of the Exchequer Alistair Darling had given permission for up to £150 billion to be created if necessary.[77] It was expected that the process would continue for three months, with results only likely in the long term.[75] By 5 November 2009, some £175 billion had been injected using QE, and the process remained less effective in the long term. In July 2012, the final increase in QE meant it had peaked at £375 billion, then holding solely UK Government bonds, representing one third of the UK national debt.[78]
+
+The result of the 2016 UK referendum on EU membership caused a major decline in the pound against other world currencies as the future of international trade relationships and domestic political leadership became unclear.[79] The referendum result weakened sterling against the euro by 5% overnight. The night before the vote, the pound was trading at €1.30; the next day, this had fallen to €1.23. By October 2016, the exchange rate was €1.12 to the pound, a fall of 14% since the referendum. By the end of August 2017 the pound was even lower, at €1.08.[80] Against the US dollar, meanwhile, the pound fell from $1.466 to $1.3694 when the referendum result was first revealed, and down to $1.2232 by October 2016, a fall of 16%.[81]
+
+Annual inflation rate
+The Bank of England had stated in 2009 that the decision had been taken to prevent the rate of inflation falling below the 2% target rate.[76] Mervyn King, the Governor of the Bank of England, had also suggested there were no other monetary options left, as interest rates had already been cut to their lowest level ever (0.5%) and it was unlikely that they would be cut further.[77]
+
+The inflation rate rose in following years, reaching 5.2% per year (based on the Consumer Price Index) in September 2011, then decreased to around 2.5% the following year.[82]
