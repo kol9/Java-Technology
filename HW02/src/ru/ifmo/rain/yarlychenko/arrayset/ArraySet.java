@@ -1,4 +1,18 @@
-import java.util.*;
+package ru.ifmo.rain.yarlychenko.arrayset;
+
+import java.util.AbstractList;
+import java.util.AbstractSet;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Iterator;
+import java.util.List;
+import java.util.NavigableSet;
+import java.util.NoSuchElementException;
+import java.util.Objects;
+import java.util.SortedSet;
+import java.util.TreeSet;
 
 
 /**
@@ -8,7 +22,6 @@ public class ArraySet<E> extends AbstractSet<E> implements NavigableSet<E> {
 
     private final Comparator<? super E> comparator;
     private final List<E> data;
-
 
     public ArraySet() {
         comparator = null;
